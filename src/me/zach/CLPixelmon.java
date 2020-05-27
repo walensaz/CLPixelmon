@@ -26,5 +26,8 @@ public class PixelChat {
         new ChatListener(event.getSource(), event.getMessage().toPlain(), event);
     }
 
+    @Listener
+    public void onPlayerCommandSend()
+
 
 }
