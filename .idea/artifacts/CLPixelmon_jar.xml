@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CLPixelmon:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CLPixelmon_jar</output-path>
+    <root id="archive" name="CLPixelmon.jar">
+      <element id="module-output" name="CLPixelmon" />
+    </root>
+  </artifact>
+</component>
