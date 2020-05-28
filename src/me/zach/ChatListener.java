@@ -21,6 +21,7 @@ public class ChatListener implements Runnable {
 
     public void run() {
         String[] args = message.split(" ");
+
     }
 
 }
