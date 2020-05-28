@@ -1,0 +1,4 @@
+pokeshow:
+  style:
+    1: '&0[%POKEMON%&0]'
+    2: '&6[LEVEL]: &5%LEVEL%'
