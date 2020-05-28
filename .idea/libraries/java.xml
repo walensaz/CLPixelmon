@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/MinecraftForge-1.12.x.zip!/MinecraftForge-1.12.x/mdk/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/MinecraftForge-1.12.x.zip!/MinecraftForge-1.12.x/src/main/java" />
+      <root url="jar://$USER_HOME$/Downloads/MinecraftForge-1.12.x.zip!/MinecraftForge-1.12.x/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
